@@ -3,3 +3,5 @@ def format_price(price):
 
 func = format_price(56.24)
 print(func)
+
+#check git status
